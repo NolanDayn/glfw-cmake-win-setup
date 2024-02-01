@@ -1,0 +1,5 @@
+C:/Users/Nol/Documents/Projects/openGL vsCode/build/CMakeFiles/helloGLFW.dir
+C:/Users/Nol/Documents/Projects/openGL vsCode/build/CMakeFiles/package.dir
+C:/Users/Nol/Documents/Projects/openGL vsCode/build/CMakeFiles/package_source.dir
+C:/Users/Nol/Documents/Projects/openGL vsCode/build/CMakeFiles/edit_cache.dir
+C:/Users/Nol/Documents/Projects/openGL vsCode/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Nol/Documents/Projects/openGL vsCode/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/helloGLFW.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/helloGLFW.dir/src/main.cpp.obj -c \"C:/Users/Nol/Documents/Projects/openGL vsCode/src/main.cpp\"",
+  "file": "C:/Users/Nol/Documents/Projects/openGL vsCode/src/main.cpp",
+  "output": "CMakeFiles/helloGLFW.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Nol/Documents/Projects/openGL vsCode/build",
+  "command": "C:/MinGW/bin/gcc.exe  @CMakeFiles/helloGLFW.dir/includes_C.rsp -g -o CMakeFiles/helloGLFW.dir/src/glad.c.obj -c \"C:/Users/Nol/Documents/Projects/openGL vsCode/src/glad.c\"",
+  "file": "C:/Users/Nol/Documents/Projects/openGL vsCode/src/glad.c",
+  "output": "CMakeFiles/helloGLFW.dir/src/glad.c.obj"
+}
+]
